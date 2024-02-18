@@ -1,0 +1,2 @@
+This repo is created to improve my knowledge and to clarify how to use remote git from desktop.
+I am studying these things from youtube and hope to do my best to gain my knowledge on this field.
