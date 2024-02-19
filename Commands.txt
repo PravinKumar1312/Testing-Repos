@@ -28,3 +28,11 @@ git add . - it works exactly like the git add but what are the files
 which are modifiesd will be added to the stage (it includes all the
 modified files in that folder).
 
+git branch - to show the branch at which the code is being saved
+
+git branch -M <name of the branch> - it will change the name of the 
+branch which you currently reside in.
+
+git branch -a - to show all the branches in the repo and the branch
+at which you currently reside is the branch which will be shown in green.
+
