@@ -25,5 +25,6 @@ add this instead of git push and you need to create a new repo like
 the original one and need to paste that link.
 
 git add . - it works exactly like the git add but what are the files
-\which are modifiesd will be added to the stage (it includes all the
+which are modifiesd will be added to the stage (it includes all the
 modified files in that folder).
+
