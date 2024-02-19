@@ -13,3 +13,17 @@ the web repo to access the remote git and the main is to say that
 the file is to be saved and showed in the git repo of the main branch
 So this command basically pushes the staged file into the git repo 
 of the web so that it is visible there.
+
+git pull - to get all the changes made in the web to our remote repo.
+
+git init - to create a new folder in the local repo and with which 
+we can make it as a new repo in the web
+
+git remote add origin <link> - after creating th git init you will
+go inside the next folder which is out of the repo created. So if you 
+add this instead of git push and you need to create a new repo like 
+the original one and need to paste that link.
+
+git add . - it works exactly like the git add but what are the files
+\which are modifiesd will be added to the stage (it includes all the
+modified files in that folder).
