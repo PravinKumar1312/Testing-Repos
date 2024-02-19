@@ -1,0 +1,15 @@
+git status - to show the status of your git repo whether the new 
+file you created or is there any other modification has been made.
+
+git add <filename> - to add your file to the git which is like a 
+backstage and it will be visible as A near the file name.
+
+git commit <--m "your message to be displayed"> - to commit the 
+changes tha have been made in the local repo which is added to 
+the backstage is to be staged.
+
+git push origin main - origin is the link which we took from 
+the web repo to access the remote git and the main is to say that 
+the file is to be saved and showed in the git repo of the main branch
+So this command basically pushes the staged file into the git repo 
+of the web so that it is visible there.
